@@ -1,22 +1,22 @@
 {
-  "ownerNumber": "6281575886399@s.whatsapp.net",
-  "pairing_code": "isi nomer yg ingin dijadikan bot, contoh 6281xxx",
-  "ownerName": "rc",
-  "botName": "Yoshino Bot",
+  "ownerNumber": "6285640159364@s.whatsapp.net",
+  "pairing_code": "6289527983991, contoh 6281xxx",
+  "ownerName": "Govidzzz",
+  "botName": "Yosi",
   "packname": "follow",
-  "author": "@riycoders",
+  "author": "@vidzzz",
   "pathimg": "./media/yoshino.jpg",
   "apikey": {
     "xcode": "ambil apikey disini : https://api.xcodeteam.xyz/"
   },
   "hmm": {
-    "yt": "https://youtube.com/@riycoders",
-    "ig": "https://instagram.com/riycoders",
-    "linkmenu": "https://chat.whatsapp.com/KShSydBXuPBIx0eeWgl7gY"
+    "yt": "https://youtube.com/Mrbeast",
+    "ig": "https://instagram.com/Mrbeast",
+    "linkmenu": "https://chat.whatsapp.com/G5pnoaEXSCvKoc5MLnMIU2"
   },
   "donasi": {
-	"dana": "081575886399",
-	"gopay": "081575886399"
+	"dana": "085640159364",
+	"gopay": "Tidak Ada"
   },
   "gamewaktu": 90,
   "limitCount": 25,
